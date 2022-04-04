@@ -1,4 +1,6 @@
-package com.kreitek.refactor.mal;
+package com.kreitek.refactor.mal.documents;
+
+import com.kreitek.refactor.mal.Documentation;
 
 import java.util.Date;
 

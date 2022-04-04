@@ -1,6 +1,10 @@
 package com.kreitek.refactor.mal;
 
-import static com.kreitek.refactor.mal.PrintHeader.header;
+import com.kreitek.refactor.mal.documents.CIF;
+import com.kreitek.refactor.mal.documents.DNI;
+import com.kreitek.refactor.mal.documents.NIE;
+
+import static com.kreitek.refactor.mal.printer.PrintHeader.header;
 
 public class  Main {
     public static void main(String args[]) {

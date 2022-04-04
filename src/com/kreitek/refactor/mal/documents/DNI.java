@@ -1,10 +1,12 @@
-package com.kreitek.refactor.mal;
+package com.kreitek.refactor.mal.documents;
+
+import com.kreitek.refactor.mal.Documentation;
 
 import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class DNI implements Documentation{
+public class DNI implements Documentation {
 
 
     public String numDNI;
